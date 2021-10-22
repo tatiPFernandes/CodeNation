@@ -6,4 +6,5 @@ let films = [
 
 for(i = 0; i < films.length; i++){
     console.log(films[i])
+    
 }
