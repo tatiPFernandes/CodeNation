@@ -15,5 +15,4 @@ if(letterD.match("d")){
     console.log(true)
 
 }else{
-    console.log(false);
-}
+    console.log(false)
